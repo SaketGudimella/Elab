@@ -1,1 +1,1 @@
-This repository contains a collection of machine learning practice problems.
+This folder contains a collection of machine learning practice problems.
