@@ -8,7 +8,7 @@ This repository serves as my personal collection of programming practice problem
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) 
   
 ## About
 
